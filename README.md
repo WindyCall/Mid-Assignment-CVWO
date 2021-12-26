@@ -22,5 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-![微信截图_20211226123802](https://user-images.githubusercontent.com/88995267/147399006-28ea28b3-b3a1-4464-890c-df7ecd5ae7e0.png)
