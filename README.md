@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is the mid-assignment for NUS Computing for Voluntary Welfare Organisations (CVWO) for 2021/2022
 
-Things you may want to cover:
+Done by:
+Name: XIAO YAN
+Matrix Number: A0245626B
 
-* Ruby version
+The writeup has already been submitted through google submission
+This git repo contains source code so far(will be updated in final submission), and a basic and simple Wireframe
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Wireframe
+![微信截图_20211226123802](https://user-images.githubusercontent.com/88995267/147399090-f040be48-5c31-4e89-abbb-1b1f05f0a82b.png)
